@@ -5,7 +5,9 @@ As part of my python learning journey I am hosting the code base on this repo. P
 
 ## Setup
 
-I am using [Pipenv](https://pipenv.pypa.io/en/latest/) to setup a virual enviroment to segregate dependenices from other python projects I work on localy. The virtual environment is hosted within the project folder. Please set **PIPENV_VENV_IN_PROJECT** environment variable to 1 prior to launching pipenv shell command
+I am using [Pipenv](https://pipenv.pypa.io/en/latest/) to setup a virual enviroment to segregate dependenices from other python projects I work on localy. The virtual environment is hosted within the project folder. Please set **PIPENV_VENV_IN_PROJECT** environment variable to 1 prior to launching pipenv shell command. 
+
+For linting and code formating I am using [Pylint](https://pylint.readthedocs.io/en/stable/) & [Yapf](https://github.com/google/yapf) respectively
 
 ### bash
 `
@@ -15,3 +17,7 @@ I am using [Pipenv](https://pipenv.pypa.io/en/latest/) to setup a virual envirom
 `
   $env:PIPENV_VENV_IN_PROJECT=1
 `
+
+I am currently engaged in several Python projects to enhance my proficiency in the language. The list of projects I am actively working on is as follows
+
+1. [inclusive hello world](hello_world)
