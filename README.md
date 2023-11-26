@@ -21,3 +21,4 @@ For linting and code formating I am using [Pylint](https://pylint.readthedocs.io
 I am currently engaged in several Python projects to enhance my proficiency in the language. The list of projects I am actively working on is as follows
 
 1. [inclusive hello world](hello_world)
+2. [file splitter](file_splitter)
